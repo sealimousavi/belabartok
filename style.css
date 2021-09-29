@@ -49,3 +49,11 @@ kbd {
   letter-spacing: .1rem;
   color: #ffc600;
 }
+.hone {
+  color: #F6F5F5;
+  position: fixed;
+  margin: 30px;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+}
